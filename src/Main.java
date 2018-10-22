@@ -1,5 +1,5 @@
 
-public class Schneckenrennen {
+public class Main {
 
 	public static void main(String[] args) {
 		Rennschnecke s1 = new Rennschnecke("Hans", "Glitscho", 3);
